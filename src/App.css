@@ -1,0 +1,18 @@
+.container {
+  padding: 40px;
+}
+
+.ant-table-content {
+  margin-top: 20px;
+}
+
+th.ant-table-cell {
+  background-color: #1890ff !important;
+  color: white !important;
+  font-weight: bold;
+  font-size: medium;
+}
+
+tr.ant-table-row:nth-child(even) {
+  background-color: #f2f7fc;
+}
